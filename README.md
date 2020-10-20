@@ -1,3 +1,3 @@
-# Storybook
+# React Storybook
 
-- Storybook with CRA
+> https://yomandawg.github.io/react-storybook/
